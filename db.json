@@ -1,0 +1,28 @@
+{
+  "friends": [
+    { "status": 1, "message": "success", "result":  [
+        {
+            "id": "ce6760a5u0214u11ebua99cu204747ced2d5",
+            "name": "InviteUser 1",
+            "email": "inviteuser1@yopmail.com",
+            "gender": 1,
+            "image": "662385cb97304c3fa5003bd34ee3242c.png",
+            "mobile": null
+        },
+      ]
+     },
+  ],
+  "requests": [
+    { "status": 1, "message": "success", "result":  [
+        {
+            "id": "ce6760a5u0214u11ebua99cu204747ced2d52",
+            "name": "InviteUser 2",
+            "email": "inviteuser2@yopmail.com",
+            "gender": 1,
+            "image": "662385cb97304c3fa5003bd34ee3242c.png",
+            "mobile": null
+        },
+      ]
+     },
+  ],
+}
