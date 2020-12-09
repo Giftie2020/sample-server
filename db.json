@@ -1,4 +1,16 @@
 {
+  "signin":[
+    {
+      "status": 1, "message": "success",  "data": {
+        "id": "dfb65a9du39f4u11ebub455u0ead47195701",
+        "email": "swivel@yopmail.com",
+        "gender": 1,
+        "image": "male.jpg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZmI2NWE5ZHUzOWY0dTExZWJ1YjQ1NXUwZWFkNDcxOTU3MDEiLCJpYXQiOjE2MDc1MDQ1NzYuNDk0LCJleHAiOjE2MDc1ODczNzYuNDk0fQ.2T67mSAo60zJZmJlWqPizHgfLFR47w80aIdV4CJSXO0",
+        "refreshtokens": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZmI2NWE5ZHUzOWY0dTExZWJ1YjQ1NXUwZWFkNDcxOTU3MDEiLCJpYXQiOjE2MDc1MDQ1NzYuNDk0LCJleHAiOjE2MDgxMDU3NzYuNDk0fQ.MCjZn9CmmYnOsRQmwjTmvlCI643S0DybkvYmJCOzyVE"
+    }
+    }
+  ],
   "friends": [
     { "status": 1, "message": "success", "result":  [
         {
